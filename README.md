@@ -24,7 +24,7 @@ Before using this script, ensure that you have:
 2. Run the following command to allocate subjects automatically:
    ```bash
    python "Python Script_deferred_acceptance_with_displacement_final4.py"
-3. Consult the RJCAT website for any additional supporting information.
+Open an Github issue or reach out via Discord/ WhatsApp if you encounter any problems!
 
 ## Features
 - **Automated Allocation**: Quickly assigns subjects to students based on the defined priorities.
