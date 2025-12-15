@@ -20,7 +20,9 @@ Before using this script, ensure that you have:
 
 ## Usage
 1. Follow the instructions in the **Setup Guide** from the Google Drive folder.
-2. Run the script to allocate subjects automatically.
+2. Run the following command to allocate subjects automatically:
+   ```bash
+   python "Python Script_deferred_acceptance_with_displacement_final4.py"
 3. Consult the RJCAT website for any additional supporting information.
 
 ## Features
