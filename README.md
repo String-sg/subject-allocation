@@ -29,7 +29,11 @@ Before using this script, ensure that you have:
 ## Features
 - **Automated Allocation**: Quickly assigns subjects to students based on the defined priorities.
 - **Scalable**: Handles large cohorts of around 200 students.
-- **Customizable**: Modify the allocation parameters using the configuration file.
+- **[Coming soon] Customizable via python script**: these are mostly hard coded at the moment into `read_student_data`, `read_course_data`, and try_place_student_in_course / `deferred_acceptance_with_displacement`. Eventual customizations could include:
+- RankMethod = TotalScore|Weighted|Custom
+- TieBreakOrder = Math,English,Science
+- Displacement = GroupWide|CourseOnly|None
+- GroupCapMode = GroupOnly|GroupAndCourse
 
 ## Contributing
 We welcome contributions from the community. To contribute:
